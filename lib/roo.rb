@@ -67,14 +67,8 @@ module Roo
   end
 end  # module Roo
 
-##Bug #11301, commented out open-office, google and csv, we need but excel/excelx.
 require 'roo/generic_spreadsheet'
-#require 'roo/openoffice'
 require 'roo/excel'
 require 'roo/excelx'
-#require 'roo/google'
-#require 'roo/csv'
-
-#Roo.require_all_libs_relative_to(__FILE__)
 
 # EOF
