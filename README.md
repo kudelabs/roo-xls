@@ -1,7 +1,7 @@
 roo-xls
 =======
 
-This is a simplify version of roo, which cuts off "openoffice", "goaogle" and "csv" support, 
+This is a simplify version of roo, which cuts off "openoffice", "google" and "csv" support, 
 and only have function of generating  MS-Excel spreadsheat (.xls &amp; .xlsx). 
 
 
